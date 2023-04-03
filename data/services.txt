@@ -1,0 +1,1296 @@
+ID    Name                     
+-----------------------------------
+1106  101Sweets                
+1     1688                     
+2     1Q                       
+3     1StopMove                
+4     2dehands                 
+5     2game                    
+6     2RedBeans                
+7     360NRS                   
+8     3Fun                     
+9     5ka.ru                   
+10    5miles                   
+11    7-Eleven                 
+12    7Mall                    
+13    888poker                 
+14    A1Wallet                 
+1292  AARP                     
+15    AARP Rewards             
+16    Ablo                     
+17    Abra                     
+18    AccountKit               
+1107  AccountPatrol / MoneyPatrol
+1108  Acorns                   
+20    Ad It Up                 
+1103  AdGate                   
+19    Adidas                   
+1094  Adira                    
+21    ADList24                 
+22    Adobe                    
+23    AdvCash                  
+24    AdWallet                 
+1109  Aeldra                   
+25    Affirm                   
+26    Afterpay                 
+27    Agoda                    
+1248  AH4R                     
+1110  Ahead                    
+28    Airbnb                   
+29    AirTel                   
+30    Airtm                    
+31    Akulaku                  
+32    Albert                   
+33    Alibaba                  
+34    Alignable                
+35    Alipay                   
+36    Allset                   
+37    ALTBalaji                
+38    Amasia                   
+39    Amazon / Amazon Web Services
+1112  Amazon Web Services      
+40    America Voice            
+41    Ando                     
+1282  Angi                     
+42    Anibis                   
+43    Ankama                   
+44    Anycoin Direct           
+45    ANZ                      
+46    Aol                      
+47    App Flame                
+48    Apple                    
+1113  Apple Wallet             
+49    AppLovin                 
+50    AppStation               
+51    ARMSLIST                 
+52    As2in1                   
+1318  Asbucks                  
+1114  Aspiration               
+1115  ATM.com                  
+53    Atom                     
+54    Atomy                    
+55    AttaPoll                 
+56    AustraliaPost            
+57    Authy                    
+58    Autoru                   
+59    Autotrader               
+60    Avail                    
+61    Avito                    
+62    Ayoba                    
+1073  Azure                    
+63    Backblaze                
+64    Badi                     
+65    Badoo                    
+66    Baidu                    
+1116  Bakkt                    
+1090  Banggood                 
+68    Banq24                   
+69    Banxa                    
+1312  Baselane                 
+70    Battle.net               
+71    BBVA                     
+72    BDSwiss                  
+1275  Beat                     
+73    BeemIt                   
+74    Beetalk                  
+75    BeForthRight             
+76    Best Of Our Valley       
+1332  Bet365                   
+77    Bet9ja                   
+78    BetCris                  
+79    Betfair                  
+80    Betfred                  
+1269  BetMGM                   
+1119  Betterment               
+81    Bidoo                    
+82    Bigolive                 
+83    BigToken                 
+1120  Bilt Rewards             
+84    BIM                      
+85    Binance                  
+86    Bing                     
+1308  Bingo Cash               
+87    Bit4Coin                 
+88    Bit4Sale                 
+89    Bitaccess                
+90    BitClout                 
+91    BitClude                 
+92    Bitcoin ATM              
+93    Bitcoin.de               
+1121  bitcoinAlley             
+94    BitcoinSolutions         
+95    bitFlyer                 
+96    Bitfront                 
+97    Bitgames.io              
+98    Bithumb                  
+1278  Bitlabs                  
+99    Bitmax                   
+100   Bitmo                    
+101   BitOasis                 
+102   Bitonic                  
+103   Bitpanda                 
+104   Bitsa                    
+105   Bitsdaq                  
+106   Bitso                    
+107   Bitstamp                 
+108   BitTube                  
+109   Bitwage                  
+110   Bity                     
+111   BlaBla                   
+112   Blackcatcard             
+113   BlackPeopleMeet          
+1092  Blibli                   
+114   Blizzard                 
+115   BLK                      
+116   Blockchain               
+1122  BlockFi                  
+117   BloomMe                  
+120   Blue Federal Credit Union
+118   BlueAcorn                
+1123  BlueBird                 
+119   Blued                    
+121   BluePay                  
+122   BlueVine                 
+1124  BMOHarris                
+123   Boatsetter               
+124   Bolt                     
+1300  Boo                      
+125   Booking.com              
+126   Boon                     
+1230  BOSS Revolution Money    
+128   BotBroker                
+129   Botcode                  
+130   Botim                    
+1125  Bovada                   
+131   Boxed Deal               
+132   Braid                    
+1126  Brandclub                
+133   BrandedSurvey            
+134   Brazzers                 
+135   Brex                     
+136   Bridge                   
+1127  BridgeCard               
+137   Broxel                   
+138   BTCDirect                
+139   BTCsurveys               
+1307  Bubble Cash              
+140   Bukalapak                
+141   BulkSMS.com              
+142   Bumble                   
+143   Bump                     
+144   Bundil                   
+145   Bunq                     
+146   Burger King              
+1231  BurgerKing               
+147   Burner App               
+1246  BurstSMS                 
+1128  BuyOnTrust               
+148   ByBit                    
+149   Cabify                   
+150   Canada Computers         
+151   CapitalOne               
+152   CARD.com                 
+153   Cardyard                 
+154   Careem                   
+155   Carepoynt                
+156   Carousell                
+157   CarsGuide                
+159   Cash Alarm               
+162   Cash Show                
+158   CashAA                   
+160   CashApp                  
+161   Cashbackbase             
+1256  Cashew                   
+163   CashWalk                 
+164   CashZine                 
+165   Casumo                   
+166   CatchMe                  
+167   Caviar                   
+168   cdkeys.com               
+1266  CELEBe                   
+169   CentroBill               
+170   Centrum                  
+171   CEX.IO                   
+1129  Champs Sports            
+172   Changelly                
+173   ChaosCloud               
+1130  Charles Schwab           
+174   Chase                    
+175   CheapVoip                
+176   Checkbook.io             
+177   CheckPoints              
+178   Cheese                   
+1325  Chevron                  
+1131  Chicks Gold Inc.         
+179   Chime                    
+1313  Chipotle                 
+180   Chipper                  
+181   Chispa                   
+182   Chowbus                  
+1085  Chumba Casino            
+183   CIBC                     
+184   Cinchbucks               
+185   Circle                   
+1302  Citizen                  
+186   CJS-CDKEYS.COM           
+188   Clearpay                 
+189   ClearVoice               
+190   Cledara                  
+191   Cleo                     
+192   Clickadu                 
+193   Clickatell               
+194   ClickDishes              
+195   clickworker              
+196   ClipClaps                
+197   CLiQQ                    
+198   CloudBet                 
+199   CloudSim                 
+200   Cloudways                
+201   Clover                   
+202   ClubFactory              
+203   Clubhouse                
+204   ClubVPS                  
+1244  CocaCola                 
+205   CodaPayments             
+206   Coffee Meets Bagel       
+219   Coin Pop                 
+208   Coinbase                 
+1331  Coincasper               
+209   CoinChat                 
+1133  CoinCircle               
+210   CoinCloud                
+211   CoinEx                   
+212   CoinFlip                 
+213   CoinGate                 
+214   Coinhouse                
+215   Coinipop                 
+216   Coinjar                  
+1283  Coinloot                 
+217   Coinme                   
+218   Coinomi                  
+1134  CoinOut                  
+1101  CoinsBaron               
+220   Coinseed                 
+221   Coinsph                  
+222   CoinSpot                 
+223   Coinstash                
+224   CoinSwitch               
+225   Cointelegraph            
+226   CoinZoom                 
+1135  Comenity / Bread Financial / Bread Pay
+227   Community Insights Forum 
+228   Confirmed                
+229   Copper                   
+230   CornerCard               
+231   Coupons.com              
+232   Course Hero              
+1301  CPAGrip                  
+233   Craigslist               
+234   CrazyKart                
+235   Credit Karma             
+236   Credit Sesame            
+237   CrowdTap                 
+238   Crypterium               
+239   Crypto.com               
+1136  Cryptolocally            
+240   Cryptopay                
+241   CryptoVoucher            
+242   CUA                      
+1333  Cupis                    
+243   Curb                     
+244   CuriousCat               
+245   Current                  
+246   Current Music            
+247   Current Rewards          
+248   Curtsy                   
+1260  CVS                      
+250   Dabbl                    
+251   DailyRewards             
+1317  Dana                     
+252   Dapper                   
+1137  DasherDirect             
+253   DateInAsia               
+254   Daum                     
+255   Dave                     
+256   Daybreak Games           
+257   DDosGuard                
+258   Deliveroo                
+259   DeliveryClub             
+260   DeliveryHero             
+261   Dent                     
+262   Depop                    
+263   DesignHill               
+264   DHL                      
+265   Dialpad                  
+266   DiDi                     
+267   Digi2Go                  
+268   DigiStore                
+269   Digit                    
+270   DilMil                   
+1138  Ding                     
+271   Dingtone                 
+272   Dinner Balls             
+273   Discord                  
+275   DistroKid                
+1316  Doctoralia               
+276   DocuSign                 
+277   Doku                     
+279   Dollar General           
+278   DollarClix               
+1273  Donately                 
+1139  Donut                    
+280   DoorDash                 
+281   Dora                     
+282   DOSH                     
+283   Dota                     
+284   Douban                   
+285   Doublelist               
+286   Douugh                   
+287   Douyu                    
+1140  DreamSpring              
+288   Dromru                   
+289   Drop                     
+290   DrugVokrug               
+291   Drumo                    
+1291  DTLR                     
+292   Dubizzle                 
+293   Duffl                    
+294   Dukascopy                
+295   Dundle                   
+296   DunkinDonuts             
+297   Dynadot                  
+318   e-Rewards                
+1141  EarlyBird                
+300   Earn Honey               
+298   Earn99                   
+299   Earnably                 
+301   Earnin                   
+302   EarningStation           
+303   EASI                     
+1142  Eastbay                  
+1077  Easy as Tap              
+304   Easy Pay                 
+1276  EasyBucks                
+1232  EasyPay                  
+305   eBay                     
+306   eGifter                  
+307   Elepreneur               
+308   Elevacity                
+309   Eloot.gg                 
+310   Emirex                   
+311   Empower                  
+312   Eneba                    
+313   EngageSpark              
+314   Entropay                 
+315   envel                    
+316   Eobot                    
+317   EpicNPC                  
+1143  EpochTimes               
+319   Esendex                  
+320   Esportal                 
+321   EspressoHouse            
+322   eToro                    
+323   Etsy                     
+1267  Eureka                   
+324   EuroPYM                  
+325   EveryoneAPI              
+326   ExpertOption             
+327   Eyecon                   
+1144  EZ Texting               
+328   Faberlic                 
+329   Facebook                 
+330   FACEIT                   
+331   FAIRTIQ                  
+332   FanTuan                  
+1287  FarmersOnly              
+333   FastMail                 
+334   Fave                     
+335   FBS                      
+1293  FeaturePoints            
+336   FedEx                    
+337   Fetch Rewards            
+338   FetLife                  
+1145  Fidelity Investments     
+339   Figure Eight             
+340   Filimo                   
+341   FindMate                 
+342   Finish Line              
+343   Firebase                 
+1147  First Tech Federal Credit Union
+345   Fitplay                  
+346   Fiverr                   
+347   Flare                    
+348   Flash Rewards            
+349   Flatmates                
+1297  Flink                    
+350   Flipkart                 
+351   Flippa                   
+352   Flurv                    
+353   Flutterwave              
+354   FluxRewards              
+355   Fluz                     
+356   Flyp                     
+1148  Fold                     
+358   Food Panda               
+357   Foodora                  
+1233  FoodPanda                
+1149  Foot Locker              
+359   FortuneJack              
+360   Fotocasa                 
+361   Fotostrana               
+362   Found                    
+1082  FreeCash                 
+363   Freelancer               
+1294  FreeNow                  
+364   FreeTaxUSA               
+365   FreshForex               
+366   Fruitlab                 
+1335  Fruitz                   
+367   FTX                      
+368   FusionCash               
+369   G2A                      
+370   G2G                      
+1150  Gabi                     
+371   GagaooLala               
+1280  Gaintplay                
+372   Gameflip                 
+373   Gamekit                  
+374   GameMiner.club           
+1151  Gamercraft               
+375   GamerMine                
+1323  Gappx                    
+376   Garena                   
+377   GCash                    
+1268  GCLoot                   
+378   Gemini                   
+1152  Gemiplay                 
+379   Genitrust                
+1088  Getir                    
+380   GetPaidTo                
+381   GetResponse              
+382   GetSlide                 
+383   GetTaxi                  
+1303  GG                       
+384   Giftcloud                
+385   Gifthulk                 
+386   GiftHunterClub           
+1153  GiftPocket               
+1154  Glass.net                
+387   Glidera                  
+1086  Global Poker             
+388   Globfone                 
+389   Glovo                    
+390   GoDaddy                  
+391   GoFundMe                 
+392   GoJek                    
+393   Golden Farmery           
+394   GOmobile                 
+395   Google                   
+1158  Google Business Profile  
+1159  Google Merchant Center   
+1080  Google Play              
+396   Google Voice             
+397   Gopuff                   
+1099  Gorillas                 
+398   GoSwak                   
+1093  Grab                     
+399   GrabPoints               
+400   GradOutcome              
+401   Grailed.com              
+1321  Green Dot / Go2Bank / GoBank
+1160  Green Dot Smart Home     
+1105  Greenlight               
+1083  Greggs                   
+403   Grindr                   
+404   GroupMe                  
+405   GrubHub                  
+406   Gueez                    
+407   Guru                     
+408   Hago                     
+1161  Handy                    
+409   Happn                    
+410   HappyCo                  
+411   HappyEscorts             
+412   HappyPancake             
+413   HardBlock                
+414   Harris Poll              
+415   HelloTalk                
+416   Hezzl                    
+417   Hibbett                  
+418   HiCloud                  
+419   Hily                     
+420   Hinge                    
+421   Hmm                      
+422   Holvi                    
+423   HomeAway                 
+424   Hopper                   
+425   HotVOIP                  
+426   Houseparty               
+427   HQ Trivia                
+428   Hsoub                    
+429   Huawei                   
+430   HUD                      
+431   Humble Bundle            
+432   Humm                     
+433   HungryPanda              
+1249  Hunter                   
+434   Hushmail                 
+435   ibotta                   
+436   ICQ                      
+439   ID.me                    
+437   Idealista                
+1163  IDES                     
+438   Idle-Empire              
+440   ieadbit                  
+441   Imfree                   
+442   Imgur                    
+443   Immobiliare              
+444   ImmobilienScout24        
+445   Immovlan                 
+446   Immowelt                 
+447   Imo                      
+1164  iMoney                   
+448   InboxLV                  
+449   InBoxPounds              
+450   Indacoin                 
+451   Indeed                   
+452   Indi                     
+1091  Indomaret                
+453   Innago                   
+454   Inspire                  
+455   Instacart                
+456   InstaGC                  
+457   Instagram                
+458   InstaRem                 
+459   InstaVoice               
+460   Intuit                   
+461   iOffer                   
+462   Ionicware                
+463   IONOS                    
+464   Ipekyol                  
+465   iPlum                    
+466   iPoll                    
+470   Ipsos iSay               
+467   IQOption                 
+468   iRazoo                   
+469   Irazoo.com               
+471   Jackd                    
+472   JAGRewards               
+473   JD                       
+1095  JD.ID                    
+474   Jeevan                   
+475   Jelli                    
+476   JePaiq                   
+477   Jerry                    
+478   Jiayuan                  
+479   JMTY                     
+1166  Jobber                   
+480   JobToday                 
+481   JollyChic                
+482   Joompay                  
+483   JuanCash                 
+484   Juno                     
+485   KACN                     
+486   Kaggle                   
+487   KakaoTalk                
+488   Kamatera                 
+489   Kapten                   
+490   KayoSports               
+491   KBZpay                   
+492   KeepRewarding.com        
+494   Keybase                  
+495   KHL                      
+1167  Kids Foot Locker         
+1081  Kik                      
+1168  Kikoff                   
+496   Kink                     
+1169  Kixify                   
+497   Klarna                   
+498   Klook                    
+1322  Klover                   
+499   KorekTelecom             
+500   Kraken                   
+501   Kriptomat                
+502   KuCoin                   
+503   Kufar                    
+504   KUMU                     
+505   KVBPrime                 
+506   Kwai                     
+507   LalaFood                 
+508   Lalamove                 
+509   Landingi                 
+510   LaPoste                  
+511   Lazada                   
+512   LBRY App                 
+1250  LDSPlanet                
+513   League of Legends        
+514   Legiit                   
+515   Letgo                    
+516   Leupay                   
+517   LibertyX                 
+518   Libon                    
+519   LIHKG                    
+1170  LikeCard                 
+520   Likee                    
+521   Lili                     
+522   Line                     
+1329  Line2                    
+1257  Link                     
+523   LinkedIn                 
+1295  Linode                   
+524   LiqPay                   
+525   Listia                   
+1259  ListYourself             
+526   LiteIM                   
+527   LiveScore                
+528   LiveTribe                
+529   LiveTV                   
+530   LivU                     
+531   LMK                      
+532   LocalBitcoins            
+533   LocalCoinATM             
+534   LocalCryptos             
+535   Locanto                  
+1078  Lolli                    
+536   Lomocall                 
+1251  LoveAndSeek              
+1324  Lucky Play               
+537   LuckyDino                
+538   Luckyland                
+539   LunaNode                 
+540   Luno                     
+541   LydiaApp                 
+542   Lyft                     
+543   LynxWallet               
+544   M1 Finance               
+545   MaChance                 
+546   Magnit                   
+552   Mail Princess            
+549   Mail.com                 
+547   Mail2world               
+548   MailChimp                
+550   MailEE                   
+551   Mailgun                  
+553   MailRu                   
+554   MakePrintable            
+555   Mamba                    
+556   MapleSEA                 
+557   Marcel                   
+558   MarcoPolo                
+1171  Marcus                   
+559   Match                    
+1096  Maxim                    
+1326  Maza                     
+1172  McMoney                  
+560   MealPal                  
+561   MedLife                  
+562   Meeff                    
+563   Meesho                   
+564   MeetMe                   
+565   Meetup                   
+566   Melo                     
+567   Mercado Libre            
+568   Mercari                  
+569   MessageBird              
+1173  MessageDesk              
+570   Metal Pay                
+572   MeWe                     
+573   Mezu                     
+574   Michat                   
+575   Mico                     
+1104  Microcenter              
+1072  Microsoft                
+1097  Microsoft Azure          
+1174  Microsoft Office 365 Business
+1175  Microsoft Office 365 E5  
+1176  Microsoft Office 365 Education
+1177  Microsoft Rewards        
+576   Microworkers             
+577   Mido                     
+578   Miles & More             
+579   Miles & Reward           
+580   Milk                     
+581   MillionaireMatch         
+1178  Millions                 
+582   Mint                     
+1179  MintVine                 
+583   Mistplay                 
+584   mixi                     
+585   Mobihapp                 
+587   Mobile Man               
+586   Mobilebet                
+588   MobileMoney              
+589   Moco                     
+1098  Mode Earn                
+1234  Mode Earn App            
+1180  MoMo                     
+590   Monese                   
+1181  MoneyGram                
+591   MoneyLion                
+592   MoneyPak                 
+593   MoneyRawr                
+594   Monzo                    
+595   MoolaDays                
+596   MoonPay                  
+1182  Mos                      
+597   Mourjan                  
+598   MOVO                     
+599   Mowasalat                
+600   MozoX                    
+601   MrGreen                  
+602   Mrsool                   
+603   MrSpin                   
+604   MTC Game Portal          
+605   MuchBetter               
+1183  Mudflap                  
+1274  Musicstre.am             
+612   My Opinions              
+618   My Trainer Rewards       
+1186  My Voice                 
+606   MyAuto                   
+607   MyBookie                 
+608   MyBoost                  
+609   MyGiftCardSupply         
+610   MyLOL                    
+611   MyMusicTaste             
+613   MyOpinions               
+1185  MyRobinhood              
+614   MySoapBox                
+615   Myspace                  
+1320  MySpendWell              
+616   MyTaxi                   
+617   MyTime                   
+1187  myWisely                 
+619   NAGATrader               
+1258  Narvesen                 
+1188  Natural / Brain.ai       
+620   Naver                    
+621   NBA Topshot              
+622   NCloud                   
+623   Near                     
+624   nearside                 
+625   Nectar                   
+626   NerdWallet               
+628   Netease                  
+629   NETELLER                 
+630   Netflix                  
+631   NetZero                  
+632   Neuron                   
+633   Nexmo                    
+634   Nextdoor                 
+1190  NFCU                     
+635   Ngage                    
+1263  Nielsen                  
+636   Nielson                  
+637   Nifty Gateway            
+638   NiftyLoans               
+639   Nike                     
+640   Nimses                   
+641   Nonoh                    
+642   Nonolive                 
+1309  noon Shopping            
+643   Noona                    
+644   Nordstrom                
+817   Not Listed               
+645   Notify                   
+646   Novo                     
+647   NTTGame                  
+648   NTWallet                 
+649   NTWRK                    
+650   NumeroeSIM               
+1306  Nuuly                    
+651   Nvidia                   
+1286  Octo                     
+652   Octopus                  
+653   Offer Nation             
+654   OfferUp                  
+655   OffGamers                
+656   OhmConnect               
+657   OKCoin                   
+658   OkCupid                  
+659   OKru                     
+660   OlaCabs                  
+661   Olx                      
+662   Omio                     
+665   One Finance              
+663   OneCasino                
+664   OneDayRewards            
+666   OneMain Financial        
+667   OneOpinion               
+668   OnJuno                   
+669   Online.net               
+1296  OnlyFans                 
+670   Oobit                    
+671   OpenAI / ChatGPT         
+672   OpenNode                 
+673   OpenPhone                
+1328  OpenPlayground           
+674   OpenSesame               
+675   Opinion Outpost          
+676   Opinion World            
+1235  Opinions Outpost         
+1191  Oportun                  
+677   OptusSport               
+678   Oracle                   
+679   OTCBTC                   
+680   OurTime                  
+1074  Outlook                  
+681   OutSmart HPV             
+1089  OVO                      
+1192  Oxygen                   
+682   OYO                      
+1193  Ozan SuperApp            
+683   OZFlatMates              
+684   PaddyPower               
+1319  PaidCash                 
+685   PaidToReadEmail.com      
+686   PaidViewpoint            
+687   Pangea                   
+688   Papara                   
+689   Parler                   
+1270  PartyPoker               
+690   ParuVendu                
+691   Passbook                 
+692   Paxful                   
+693   Payactiv                 
+694   PayAsUGym                
+695   Paybis                   
+696   Paycell                  
+697   PayCenter                
+698   PayGo                    
+699   PayMaya                  
+700   PaymeDollar              
+701   Paymium                  
+702   Payoneer                 
+703   PayPal                   
+704   PayQin                   
+705   Paysafe                  
+706   PaySay                   
+707   PaySend                  
+708   Paysera                  
+709   Paytm                    
+710   PCGameSupply             
+711   Pei                      
+1194  Penfed                   
+712   Periscope                
+713   Perk                     
+714   Personal Capital         
+1284  PGSamsBuyGet             
+715   Phyre                    
+716   PinaLove                 
+1195  Pinata                   
+717   Pinchos                  
+718   Pinecone Research        
+719   PingPong                 
+720   Pinterest                
+1299  Pionex                   
+721   Pitacoin                 
+722   Plaid                    
+1334  Play4                    
+723   PlayerAuctions           
+724   Plenty Of Fish           
+1100  Plivo                    
+726   PocketWin                
+727   PODERcard                
+1314  Poe                      
+728   Pogo                     
+729   Pointclub                
+730   Pokec                    
+732   Poll Pay                 
+731   PollPass                 
+733   PopKonTv                 
+1305  Porkbun                  
+734   Porte                    
+735   Poshmark                 
+736   Posten                   
+738   Potato Chat              
+1240  PREMIER                  
+739   Prepaid2Cash             
+740   Prezzee                  
+741   Privacy                  
+742   Prolific                 
+743   Promotion Pod            
+744   ProOpinions              
+745   Propeller Ads            
+1236  PropellerAds             
+746   Propy                    
+747   ProtonMail               
+748   Pruvit                   
+749   PUBGMOBILE               
+1298  Public.com               
+750   Punktid                  
+751   Pureprofile              
+752   Purse.io                 
+753   Purseio                  
+756   Q Live                   
+754   QIP                      
+755   QIWIWallet               
+757   Qmee.com                 
+758   Qoo10                    
+759   QQTube                   
+760   QuadPay                  
+761   Qube Money               
+764   Quick Pay Survey         
+765   Quick Thoughts           
+762   QuickBooks               
+763   Quickie                  
+766   Quipp                    
+767   Radial Insight           
+768   Raise                    
+769   RAM                      
+770   Rambler                  
+771   Razer                    
+1255  RBFCU                    
+772   Rebtel                   
+1261  RECUR                    
+1196  RedCircle                
+773   Remitly                  
+774   RentMe                   
+775   Reonomy                  
+776   ReRyde                   
+777   RetailMeNot              
+1311  Revel                    
+778   Revolut                  
+779   Rewarded Play            
+780   Rewarding Ways           
+1197  RI                       
+781   Ria Financial            
+782   RingCaptcha              
+783   RingCentral              
+784   Riot Games               
+1237  RiotGames                
+785   Ritual.co                
+786   Rizk                     
+787   Rizq                     
+788   RLOVE                    
+789   Robinhood                
+790   Roblox                   
+791   RocketReach              
+792   Rooming                  
+793   Roomster                 
+794   Root                     
+795   Rover                    
+796   RRF                      
+797   RSGoldMine               
+1198  RSocks                   
+798   Rumble                   
+799   Ruten                    
+800   SafeCurrency             
+1199  Safeway / Albertsons     
+801   Sam's Club               
+1200  Santander                
+802   SAS                      
+803   Save With Surveys        
+1201  SaverLife                
+804   SayHi                    
+1202  SBA                      
+805   Scaleway                 
+806   Scout                    
+807   SCRUFF                   
+808   Sea Gamer Mall           
+809   SEAGM                    
+810   Seated                   
+811   Secret Benefits          
+812   SendGrid                 
+813   SendInBlue               
+814   Sendwave                 
+815   SEOClerks                
+816   Serverfield              
+818   Sezzle                   
+819   Shasso                   
+820   SheerID                  
+821   Shop at Home             
+826   Shop Pay                 
+822   ShopBack                 
+823   Shopee                   
+824   Shopify                  
+825   Shopkick                 
+827   Shpock                   
+828   SidelineSwap             
+829   Signal                   
+830   Simba                    
+832   Simplex / SimplexCC      
+833   Sinch                    
+834   SingleMuslim             
+835   SkipTheDishes            
+836   Skout                    
+837   Skrill                   
+838   Skyetel                  
+1076  Skype                    
+1203  SkyPrivate               
+839   Slide                    
+1330  Slips                    
+840   SmarterASP               
+841   Smores                   
+842   SMSit                    
+843   SMSto                    
+844   SMTP2GO                  
+845   Snagshout                
+848   Snap Finance             
+849   Snap Kitchen             
+846   Snapchat                 
+847   Snapex                   
+1238  SnapKitchen              
+850   Sneakerboy               
+851   Sneakersnstuff           
+852   SnippetMedia             
+1289  SOAR                     
+853   Societi                  
+854   SoFI                     
+855   Solitaire Cash           
+856   Sonetel                  
+857   SoulAPP                  
+858   Souq                     
+859   SpectroCoin              
+860   Spend                    
+861   Spotify                  
+1204  Spruce                   
+862   Spryng                   
+863   Square                   
+864   Starbucks                
+865   StarOfService            
+1205  Stash                    
+866   State Farm               
+1239  StateFarm                
+867   Steady                   
+868   Steam                    
+869   SteemIt                  
+870   Step                     
+1310  Sticker Mule             
+1102  Stir                     
+871   Stoqo                    
+872   StormGain                
+873   StormPlay                
+874   Strato                   
+1285  Streetbeat               
+875   Streetbees               
+876   Strike                   
+877   Stripe                   
+1315  Suds Car Wash
+          
+1279  Sugarbook                
+878   SugarDaddyMeet           
+879   SumUp                    
+881   SuperPay                 
+882   Supreme                  
+1206  SurePayroll              
+883   Surf                     
+885   Survey Junkie            
+886   Survey Monkey Rewards    
+884   SurveyHoney              
+887   SurveyRewardz            
+888   Surveytime               
+889   Swagbucks / InboxDollars / MyPoints / ySense / ClassPass
+890   SwapD                    
+891   Sweatcoin                
+892   SweetRing                
+893   SwissBorg                
+1207  Switchere                
+894   Swych                    
+895   Swyftx                   
+927   T-Mobile Money           
+1208  Tada                     
+896   Tagged                   
+897   Talk2                    
+898   Talken                   
+899   TanTan                   
+900   TaoBao                   
+901   Tapchamps                
+902   Target                   
+903   Taxify                   
+1209  TaxSlayer                
+934   T‚o Taxi                 
+904   TCGPlayer                
+905   TD Ameritrade            
+1210  TechBubble               
+907   Telegram                 
+908   Telekom                  
+909   Telnyx                   
+910   Telos                    
+911   Tencent / QQ             
+912   Tenx                     
+913   ThaiFriendly             
+914   The Change               
+915   TheFreeNet               
+916   TheHouseShop             
+917   ThinkOpinion             
+918   ThisFate                 
+919   Thumbtack                
+920   Thunderpod               
+921   Ticketmaster             
+922   Tier                     
+923   Tikki                    
+924   TikTok                   
+925   Tilda                    
+926   Tinder                   
+928   TodayAustralia           
+929   TogetherPrice            
+1211  Token                    
+930   Tokeneo                  
+931   Tokopedia                
+932   TomaExchange             
+933   ToTalk                   
+935   TradingView              
+936   TransferHome             
+937   TransferWise             
+1252  TransformCredit          
+938   Tremolo                  
+939   Tripadvisor              
+940   TrueCaller               
+941   TrulyMadly               
+1245  Truth Social             
+942   TurboTax                 
+943   TurboTenant              
+944   Turgame                  
+945   Turo                     
+1327  Twig                     
+946   Twilio                   
+947   Twitch                   
+948   Twitter                  
+949   Twoo                     
+951   Uber / Postmates         
+952   Ubisoft                  
+953   Ultra                    
+1079  UltraIO                  
+954   Uniplaces                
+955   UniqueCasino             
+956   Univision Mobile Money   
+957   UOL                      
+958   Upaynet                  
+1264  Upgrade                  
+959   uphold                   
+960   Uplift                   
+1214  UpVoice                  
+961   Upward                   
+962   Upwork                   
+963   UrbanClap                
+964   USA Survey               
+1215  USAA                     
+966   USPS                     
+967   Valued Opinions          
+1265  Vanguard                 
+968   VarageSale               
+969   Varo                     
+970   Vase                     
+971   Vendo                    
+972   Venmo                    
+973   Verse                    
+974   Vertex                   
+975   Vets Prevail             
+976   ViaApp / ViaVan          
+1216  ViaBill                  
+977   ViaBTC                   
+978   Viber                    
+979   Vidaplayer               
+980   Vidio                    
+981   VietJetAir               
+982   Vimpay                   
+983   Vinted                   
+984   VivaWallet               
+985   VK                       
+986   Vnay                     
+988   VoilaNorbert             
+989   Volny                    
+990   Voopee                   
+991   Voyager                  
+992   Vrbo                     
+993   VulkanVegas              
+994   Vumber                   
+995   Wafaicloud               
+1217  Wager Web                
+996   Waleteros                
+997   Walgreens                
+998   WalletHub                
+999   Walmart                  
+1224  Walmart Family Mobile    
+1218  Walmart Money Card       
+1000  WapLog                   
+1001  WatchiT                  
+1002  Wealthfront              
+1003  Webmoney                 
+1253  Webull                   
+1004  WeChat                   
+1005  Wedoogift                
+1006  Weebly                   
+1007  Weee!                    
+1008  Weibo                    
+1009  Wells Fargo              
+1219  Welspun Brain Trust      
+1010  WeSing                   
+1011  WestStein                
+1220  Weverse                  
+1241  Whatnot                  
+1012  WhatsApp                 
+1013  WhatsAround              
+1254  White Calling            
+1014  Whop                     
+1015  Wickr                    
+1016  Wild                     
+1271  Winden                   
+1221  Windows / Xbox Store     
+1017  Wing                     
+1018  Wingocard                
+1019  Wingspan                 
+1020  Wink                     
+1222  WireBarley               
+1021  Wirex                    
+1223  Wise                     
+1022  Wish                     
+1023  Wolt                     
+1024  Womply                   
+1025  WooCommerce              
+1026  Workers Credit Union     
+1027  Wynk                     
+1028  Wyre                     
+1281  X1CreditCard             
+1029  Xapo                     
+1075  Xbox                     
+1225  xcoins                   
+1304  Xfinity                  
+1031  Xoom                     
+1032  XS2Exchange              
+1033  XSERVER                  
+1034  Yahoo                    
+1035  Yalla                    
+1036  Yandex                   
+1037  Yeeyi                    
+1226  Yeezy                    
+1038  Yelp                     
+1039  YFSResearch              
+1040  Yieldstreet              
+1041  Yippi                    
+1042  Yocket                   
+1043  Yodlee                   
+1044  YoHo                     
+1087  YooMoney                 
+1045  Yoti                     
+1046  YouGotaGift              
+1047  Youla                    
+1048  YourRentals              
+1049  YouTrip                  
+1227  Youtube                  
+1050  Yubo                     
+1051  Yuno Surveys             
+1052  YuroPay                  
+1229  z.com                    
+1053  Zadarma                  
+1054  Zalo                     
+1055  Zao                      
+1056  ZapZap                   
+1057  Zeek                     
+1058  Zelle                    
+1290  Zen                      
+1059  Zenly                    
+1060  Zest                     
+1061  Zhihu                    
+1062  Zillow                   
+1064  Zip/QuadPay              
+1063  ZipCo                    
+1065  Zogo                     
+1066  Zoho                     
+1277  Zolve                    
+1067  Zomato                   
+1068  ZoomBucks                
+1069  ZoomInfo                 
+1070  Zoosk                    
+1071  Zumper                   

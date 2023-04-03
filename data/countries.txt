@@ -1,0 +1,148 @@
+ID    Country                   Short Name Region         
+-----------------------------------------------------------------
+1     United States             US         North America  
+53    Mexico                    MX         North America  
+128   Guadeloupe                GP         North America  
+148   Anguilla                  AI         North America  
+2     United Kingdom            GB         Europe         
+3     Netherlands               NL         Europe         
+4     Russia                    RU         Europe         
+5     Latvia                    LV         Europe         
+6     Sweden                    SE         Europe         
+8     Portugal                  PT         Europe         
+10    Estonia                   EE         Europe         
+13    Romania                   RO         Europe         
+19    Denmark                   DK         Europe         
+21    Poland                    PL         Europe         
+23    France                    FR         Europe         
+24    Germany                   DE         Europe         
+25    Ukraine                   UA         Europe         
+32    Ireland                   IE         Europe         
+37    Serbia                    RS         Europe         
+47    Lithuania                 LT         Europe         
+48    Croatia                   HR         Europe         
+50    Austria                   AT         Europe         
+51    Belarus                   BY         Europe         
+55    Spain                     ES         Europe         
+57    Slovenia                  SI         Europe         
+75    Belgium                   BE         Europe         
+76    Bulgaria                  BG         Europe         
+77    Hungary                   HU         Europe         
+78    Moldova                   MD         Europe         
+79    Italy                     IT         Europe         
+102   Greece                    GR         Europe         
+104   Iceland                   IS         Europe         
+112   Slovakia                  SK         Europe         
+115   Monaco                    MC         Europe         
+123   Albania                   AL         Europe         
+130   Finland                   FI         Europe         
+131   Luxembourg                LU         Europe         
+133   Montenegro                ME         Europe         
+134   Switzerland               CH         Europe         
+135   Norway                    NO         Europe         
+7     Kazakhstan                KZ         Asia           
+9     Indonesia                 ID         Asia           
+11    Vietnam                   VN         Asia           
+12    Philippines               PH         Asia           
+15    India                     IN         Asia           
+18    Kyrgyzstan                KG
+       Asia           
+20    Malaysia                  MY         Asia           
+26    China                     CN         Asia           
+28    Kyrgyzstan                KG         Asia           
+29    Israel                    IL         Asia           
+33    Cambodia                  KH         Asia           
+34    Laos                      LA         Asia           
+38    Yemen                     YE         Asia           
+44    Uzbekistan                UZ         Asia           
+49    Iraq                      IQ         Asia           
+52    Thailand                  TH         Asia           
+54    Taiwan                    TW         Asia           
+58    Bangladesh                BD         Asia           
+60    Turkey                    TR         Asia           
+62    Pakistan                  PK         Asia           
+67    Mongolia                  MN         Asia           
+69    Afghanistan               AF         Asia           
+72    Cyprus                    CY         Asia           
+74    Nepal                     NP         Asia           
+88    Kuwait                    KW         Asia           
+91    Oman                      OM         Asia           
+92    Qatar                     QA         Asia           
+95    Jordan                    JO         Asia           
+98    Brunei                    BN         Asia           
+101   Georgia                   GE         Asia           
+114   Tajikistan                TJ         Asia           
+116   Bahrain                   BH         Asia           
+118   Armenia                   AM         Asia           
+121   Lebanon                   LB         Asia           
+126   Bhutan                    BT         Asia           
+127   Maldives                  MV         Asia           
+129   Turkmenistan              TM         Asia           
+141   Singapore                 SG         Asia           
+14    Nigeria                   NG         Africa         
+16    Kenya                     KE         Africa         
+27    Tanzania                  TZ         Africa         
+30    Madagascar                MG         Africa         
+31    Egypt                     EG         Africa         
+36    Gambia                    GM         Africa         
+41    Morocco                   MA         Africa         
+42    Ghana                     GH         Africa         
+45    Cameroon                  CM         Africa         
+46    Chad                      TD         Africa         
+56    Algeria                   DZ         Africa         
+59    Senegal                   SN         Africa         
+63    Guinea                    GN         Africa         
+64    Mali                      ML         Africa         
+66    Ethiopia                  ET         Africa         
+70    Uganda                    UG         Africa         
+71    Angola                    AO         Africa         
+73    Mozambique                MZ         Africa         
+82    Tunisia                   TN         Africa         
+86    Zimbabwe                  ZW         Africa         
+87    Togo                      TG         Africa         
+90    Swaziland                 SZ         Africa         
+94    Mauritania                MR         Africa         
+96    Burundi                   BI         Africa         
+97    Benin                     BJ         Africa         
+99    Botswana                  BW         Africa         
+105   Comoros                   KM         Africa         
+106   Liberia                   LR         Africa         
+107   Lesotho                   LS         Africa         
+108   Malawi                    MW         Africa         
+109   Namibia                   NA         Africa         
+110   Niger                     NE         Africa         
+111   Rwanda                    RW         Africa         
+117   Zambia                    ZM         Africa         
+119   Somalia                   SO         Africa         
+122   Gabon                     GA         Africa         
+125   Mauritius                 MU         Africa         
+132   Djibouti                  DJ         Africa         
+137   Eritrea                   ER         Africa         
+139   Seychelles                SC         Africa         
+35    Haiti                     HT         South America  
+39    Colombia                  CO         South America  
+43    Argentina                 AR         South America  
+61    Peru                      PE         South America  
+65    Venezuela                 VE         South America  
+68    Brazil                    BR         South America  
+80    Paraguay                  PY         South America  
+84    Bolivia                   BO         South America  
+89    Ecuador                   EC         South America  
+103   Guyana                    GY         South America  
+113   Suriname                  SR         South America  
+120   Chile                     CL         South America  
+124   Uruguay                   UY         South America  
+138   Aruba                     AW         South America  
+136   Australia                 AU         Oceania        
+140   Fiji                      FJ         Oceania        
+81    Honduras                  HN         Central America
+83    Nicaragua                 NI         Central America
+85    Guatemala                 GT         Central America
+93    Panama                    PA         Central America
+100   Belize                    BZ         Central America
+142   Jamaica                   JM         Carribeans     
+143   Barbados                  BB         Carribeans     
+144   Bahamas                   BS         Carribeans     
+145   Dominica                  DM         Carribeans     
+146   Grenada                   GD         Carribeans     
+147   Montserrat                MS         Carribeans     
