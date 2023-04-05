@@ -1,9 +1,11 @@
+#! /usr/bin/env python3
+
 import requests
 import pyperclip
 from config import *
 
 
-def purchase_sms(api_key, country_code, service_id):
+def purchase_sms(country_code, service_id):
     url = "https://api.smspool.net/purchase/sms"
 
     payload = {
@@ -34,7 +36,7 @@ def purchase_sms(api_key, country_code, service_id):
     pyperclip.copy(data.get('order_id'))
 
 
-def active_orders(api_key):
+def active_orders():
     url = "https://api.smspool.net/request/active"
     params = {
         "key": api_key
@@ -59,7 +61,7 @@ def active_orders(api_key):
         print("Error retrieving active orders.")
 
 
-def check_sms(api_key, order_id):
+def check_sms(order_id):
     url = "https://api.smspool.net/sms/check"
 
     payload = {
@@ -101,7 +103,7 @@ def check_sms(api_key, order_id):
         print(f"Failed to connect to {url}! Error: {response.status_code}")
 
 
-def cancel_sms(api_key, order_id):
+def cancel_sms(order_id):
     import requests
     url = "https://api.smspool.net/sms/cancel"
 
@@ -132,15 +134,15 @@ if __name__ == "__main__":
         choice = input("Enter your choice: ")
 
         if choice == "1":
-            purchase_sms(api_key, 1, 671)
+            purchase_sms(1, 907)
         elif choice == "2":
-            active_orders(api_key)
+            active_orders()
         elif choice == "3":
             order_id = input("Enter Order ID: ")
-            check_sms(api_key, order_id)
+            check_sms(order_id)
         elif choice == "4":
             order_id = input("Enter Order ID: ")
-            cancel_sms(api_key, order_id)
+            cancel_sms(order_id)
         elif choice == "0":
             print("Exiting...")
             break
