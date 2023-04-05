@@ -45,7 +45,8 @@ ID    Country                   Short Name Region
 11    Vietnam                   VN         Asia           
 12    Philippines               PH         Asia           
 15    India                     IN         Asia           
-18    Kyrgyzstan                KG         Asia           
+18    Kyrgyzstan                KG
+       Asia           
 20    Malaysia                  MY         Asia           
 26    China                     CN         Asia           
 28    Kyrgyzstan                KG         Asia           
