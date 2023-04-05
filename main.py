@@ -1,8 +1,15 @@
-#! /usr/bin/env python3
+#! /opt/homebrew/bin/python3
 
 import requests
 import pyperclip
-from config import *
+import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Access environment variable with default value
+api_key = os.getenv('api_key', None)
 
 
 def purchase_sms(country_code, service_id):
